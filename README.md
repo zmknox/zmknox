@@ -4,6 +4,8 @@ I write a lot of backend tools with Node.js for work, and write some iOS apps in
 
 Check out [some of my projects](https://zachknox.com/projects/), and feel free to [contact me](https://zachknox.com/contact/) if you need anything.
 
+~ Zach (he/him)
+
 <!--
 **zmknox/zmknox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
