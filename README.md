@@ -2,9 +2,9 @@
 
 I write a lot of backend tools with Node.js for work, and write some iOS apps in Swift for me. I've also been known to make a web app here and there.
 
-Check out [some of my projects](https://zachknox.com/projects/), and feel free to [contact me](https://zachknox.com/contact/) if you need anything.
+Check out [some of my projects](https://zmknox.com/projects/), and feel free to [contact me](https://zmknox.com/contact/) if you need anything.
 
-~ zmknox
+~ Zoe (she/her)
 
 <!--
 **zmknox/zmknox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
