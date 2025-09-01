@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I write a lot of backend tools with Node.js for work, and write some iOS apps in Swift for me. I've also been known to make a web app here and there.
+I write a lot of backend tools with Node.js for work, and make some neat little web and iOS projects for me.
 
 Check out [some of my projects](https://zmknox.com/projects/), and feel free to [contact me](https://zmknox.com/contact/) if you need anything.
 
